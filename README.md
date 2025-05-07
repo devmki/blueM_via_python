@@ -21,9 +21,11 @@ BlueM.Sim can be downloaded from the BlueM Website [download](https://downloads.
 ### How to run
 
 The user must make settings in the USER SETTINGS section and optionally in the OPTIONAL SETTINGS.
-Required settings are the paths to the BlueM.DllAdapter.dll and the BlueM.Sim.dll.
-Additionally, the time frames for simulations need to be defined.
-Finally, the path and files variables should be adjusted to your folder structure.
+Required settings are  
+1. path to the BlueM.DllAdapter.dll
+2. path to the BlueM.Sim.dll.
+3. the time frames for simulations need to be defined.
+4. the path and files variables should be adjusted to your folder structure.
 
 Optional settings are defining a new time step, which will be written into the ALL files and used for the simulation.
 
