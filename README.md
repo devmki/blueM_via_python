@@ -1,6 +1,10 @@
 # BlueM.Sim and Python
 
-This repo includes three scripts to run the BlueM.Sim DLL using Python.
+This repo includes three scripts to run the BlueM.Sim DLL using Python. 
+
+BlueM is a software package for hydrological simulation, data analysis and multi criteria optimizatzion. 
+For more details refer to [BlueM Homepage](https://bluemodel.org/)
+
 
 ## simulate_blueM.py
 
